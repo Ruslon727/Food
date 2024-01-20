@@ -405,4 +405,881 @@
     border-radius: 6px;
     background: #252525;
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+.ruslan{
+    background: #1A1A1A;
+    width: 100%;
+    height: 1290px;    
+}
+.box_section{
+    width: 1110px;
+    height: 1286px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #1A1A1A;
+    position: relative;
+    left: 200px;
+}
+.text_qismi{
+    width: 1110px;
+    height: 240px;
+}
+.katta_boxlar{
+    width: 1110px;
+    height: 1000px;
+}
+.ruslan_text{
+    color: #D9D9D9;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 90px;
+    letter-spacing: 7.2px;
+    position: relative;
+    top: 70px;
+}
+.chap_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.top_box{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.chap_box_text{
+    color: #D9D9D9;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+}
+.chap_box_comment{
+    color: #A4A8B2;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+    opacity: 0.6;
+}
+.chap_box_paragraph{
+    width: 290px;
+    color: #85878C;
+    font-family: Helvetica;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.162px;
+    position: relative;
+    left: 30px;
+    top: 47px;
+}
+.chap_box_stars{
+    position: relative;
+    left: 35px;
+    top: 80px;
+}
+.chap_box_number{
+    color: #B3B3B3;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    position: relative;
+    left: 169px;
+    top: 53px;
+}
+.chap_box_btn{
+    width: 100px;
+    height: 40px;
+    color: var(--Dark-Gray, #252525);
+    text-align: center;
+    font-family: Helvetica;
+    background-color: #34C759;
+    border: 1px solid #34C759;
+    border-radius: 100px;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+    left: 226px;
+    top: 17px;
+}
+.orta_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.orta_box_btn{
+    width: 100px;
+    height: 40px;
+    color: var(--Dark-Gray, #252525);
+    text-align: center;
+    background-color: #252525;
+    border: 2px solid #393939;
+    border-radius: 100px;
+    color: rgba(255, 255, 255, 0.50);
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+    left: 226px;
+    top: 17px;
+}
+.ong_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.bottom_box{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.icon{
+    float: right;
+    position: relative;
+    bottom: 250px;
+    right: 24px;
+
+}
+.birinchi_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.ikkinchi_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.uchinchi_box{
+    width: 350px;
+    height: 493px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+}
+.rasm{
+    position: relative;
+    left: 525px;
+    top: 90px;
+}
+.TEXT{
+    width: 1110px;
+    height: 240px;
+    position: relative;
+    left: 200px;
+    text-align: center;
+}
+.MAINTEXT{
+    width: 100%;
+    height: 250px;
+    background: #1A1A1A;
+}
+.maintext{
+    position: relative;
+    top: 90px;
+    color: #D9D9D9;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 90px;
+    letter-spacing: 7.2px;
+}
+.img{
+    position: relative;
+    top: 104px;
+}
+.BOXLAR{
+    height: 160px;
+    width: 1110px;
+    background: #1A1A1A;
+    position: relative;
+    left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.BOXS{
+    width: 100%;
+    height: 160px;
+    background: #1A1A1A;
+}
+.CHAPBOX{
+    width: 350px;
+    height: 154px;
+}
+.ism{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.225px;
+    position: relative;
+    top: 10px;
+    left: 24px;
+}
+.opisaniya{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    position: relative;
+    top: 35px;
+    right: 90px;
+}
+.birqator{
+    display: flex;
+}
+.Rasm{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ORTABOX{
+    width: 350px;
+    height: 154px;
+}
+.opisaniyaa{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    position: relative;
+    top: 35px;
+    right: 97px;
+}
+.opisaniya1{
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    position: relative;
+    top: 35px;
+    right: 47px;
+}
+.ONGBOX{
+    width: 350px;
+    height: 154px;
+}
+.obshiy{
+    width: 100%;
+    height: 800px;
+    background: #1A1A1A;
+}
+.Matn{
+    width: 1110px;
+    height: 240px;
+    position: relative;
+    left: 200px;
+}
+.matn{
+    color: #D9D9D9;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 90px;
+    letter-spacing: 7.2px;
+}
+.line{
+    position: relative;
+    left: 525px;
+    top: 20px;
+}
+.rasm_div{
+    width: 540px;
+    height: 510px;
+    background-image: url(./Rasmlar/placeholder\ \(10\).svg);
+    position: relative;
+    left: 200px
+}
+.Icon{
+    width: 40px;
+    height: 40px;
+    background-color: #000;
+    border-radius: 50%;
+    text-align: center;
+    opacity: 0.4;
+    float: right;
+    position: relative;
+    right: 30px;
+    top: 30px;
+}
+.STRELKA{
+    float: right;
+    position: relative;
+    top: 42px;
+    right: 3px;
+}
+.center_container{
+    width: 359px;
+    height: 300px;
+    position: relative;
+    top: 60px;
+    left: 90px;
+}
+.qora_text{
+    width: 90px;
+    height: 25px;
+    background-color: black;
+    text-align: center;
+    position: relative;
+    left: 135px;
+    opacity: 0.9;
+}
+.MATN{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+.Sana{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 143px;
+    top: 60px;
+}
+.koment{
+    width: 411px;
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    position: relative;
+    top: 90px;
+    right: 15px;
+}
+.Jason{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    top: 140px;
+}
+.obshi_div{
+    display: flex;
+    display: flex;
+    width: 61px;
+    height: 30px;
+    padding: 0px 3px 0px 4px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    position: relative;
+    left: 190px;
+    top: 130px;
+}
+.obshiy_div{
+    display: inline-flex;
+    height: 30px;
+    padding: 0px 2px 0px 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    left: 286px;
+    top: 100px;
+}
+.ikkiyuzyetmushbesh{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+.onikki{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+.brinchi_box{
+    width: 540px;
+    height: 150px;
+    border-radius: 6px;
+    background: #252525;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+    float: right;
+    position: relative;
+    bottom: 511px;
+    right: 200px;
+}
+.korobka{
+    display: flex;
+    float: right;
+    position: relative;
+    right: 104px;
+    display: flex;
+    width: 61px;
+    padding: 0px 3px 0px 4px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    bottom: 10px;
+}
+.karobka{
+    display: flex;
+    float: right;
+    display: inline-flex;
+    padding: 0px 2px 0px 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    left: 40px;
+    bottom: 10px;
+}
+.lorem{
+    width: 505px;
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.orqa_div{
+    width: 65px;
+    height: 25px;
+    background-color: #000;
+    opacity: 0.9;
+    position: relative;
+    top: 35px;
+    left: 30px;
+}
+.lunch{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+.sanalar{
+    color: #B3B3B3;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    position: relative;
+    top: 9px;
+    left: 110px;
+}
+.son{
+    color: #D8D8D8;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+.ikki_box{
+    width: 540px;
+    height: 150px;
+    border-radius: 6px;
+    background-image: url(./Rasmlar/placeholder\ \(11\).svg);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+    float: right;
+    position: relative;
+    bottom: 340px;
+    left: 340px;
+}
+.uch_box{
+    width: 540px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #34C759;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.10);
+    float: right;
+    position: relative;
+    bottom: 300px;
+    right: 200px;
+}
+.sanalarr{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    position: relative;
+    top: 9px;
+    left: 110px;
+}
+.sanalarrr{
+    color: #1A1A1A;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    position: relative;
+    top: 9px;
+    left: 110px;
+}
+.sonn{
+    color: #1A1A1A;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+.CONTAINER{
+    width: 100%;
+    height: 900px;
+    background: #1A1A1A;
+}
+.BIR{
+    width: 1110px;
+    height: 240px;
+    text-align: center;
+}
+.Social{
+    text-align: center;
+    color: #D9D9D9;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 90px;
+    letter-spacing: 7.2px;
+    position: relative;
+    left: 50%;
+    top: 30%;
+}
+.linee{
+    position: relative;
+    left: 50%;
+    top: 40%;
+}
+.BIR_BOX{
+    width: 350px;
+    height: 330px;
+    background-color: #252525;
+    filter: drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.10));
+    border-radius: 5px;
+    position: relative;
+    left: 165px;
+}
+.twitter{
+    width: 40px;
+    height: 40px;
+    background-color: #262626;
+    stroke-width: 2px;
+    border: 3px solid #303030;
+    border-radius: 50%;
+    position: relative;
+    left: 31px;
+}
+.twitter_logo{
+    position: relative;
+    left: 4px;
+    top: 3px;
+}
+.follow_us{
+    width: 100px;
+    height: 40px;
+    border: 3px solid #303030;
+    border-radius: 50px;
+    position: relative;
+    left: 140px;
+}
+.follow_text{
+    color: #737373;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 2px;
+}
+.Ruslan{
+    display: flex;
+    width: 350px;
+    height: 80px;
+    justify-content: baseline;
+    align-items: center;
+}
+.Twitter_text{
+    color: #BFBFBF;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 50px;
+}
+.twitter{
+    position: relative;
+    left: 31px;
+}
+.chiziq{
+    float: right;
+    position: relative;
+    right: 15px;
+    top: 30px;
+}
+.soat{
+    color: #737373;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.LOREM{
+    width: 280px;
+    color: rgba(255, 255, 255, 0.70);
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 25px;
+    left: 30px;
+}
+.email{
+    color: var(--Primary, #34C759);
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.IKKI{
+    display: flex;
+    width: 1110px;
+    height: 500px;
+    justify-content: space-between;
+    position: relative;
+    left: 4%;
+}
+.follow_uss{
+    width: 100px;
+    height: 40px;
+    border: 3px solid #303030;
+    border-radius: 50px;
+    position: relative;
+    left: 120px;
+}
+.LOREm{
+    width: 260px;
+    color: rgba(255, 255, 255, 0.70);
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 25px;
+    left: 30px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background: #252525;
+}
+.FIRST_BOX{
+    width: 245px;
+    height: 95px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 260px;
+}
+.plan{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 16px;
+}
+.work{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    opacity: 0.5;
+}
+.SECOND_BOX{
+    width: 245px;
+    height: 95px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.plann{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 16px;
+}
+.workk{
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    opacity: 0.5;
+}
+.BOXLARRR{
+    display: flex;
+    justify-content: space-between;
+    height: 170px;
+}
+.THIRD_BOX{
+    width: 245px;
+    height: 95px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    right: 263px;
+}
+.plannn{
+    color: #FFF;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: relative;
+    top: 16px;
+}
+.workkk{
+    color: #999;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+}
+.oxiri{
+    width: 100%;
+    height: 110px;
+    text-align: center;
+}
+.oxiri_logo{
+    margin-top: 40px;
+}
+.oxiri_text{
+    color: #737373;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    position: relative;
+    bottom: 5px;
 }
